@@ -1,0 +1,16 @@
+[
+    {
+        "school":"University of Victoria",
+        "degree":"MSc in Computer Science",
+        "major":"Computer Networking",
+        "range":"May 2021 - Present"
+    },
+    {
+        "school":"Clinton Community College",
+        "degree":"BSc in Computer Science (Honour)",
+        "major":"Minor in Statistics",
+        "notes":"Artificial intelligence (95), Data Mining (94), System for Massive Datasets (92), Computer Networks (91), Digital Logic and Organization (91), Probability and Statistics (91), etc.",
+        "range":"Sept 2017 - April 2021"
+    }
+]
+

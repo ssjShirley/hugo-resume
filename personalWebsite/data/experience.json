@@ -1,0 +1,21 @@
+[
+    {
+        "role":"Teaching Assistant",
+        "company":"University of Victoria",
+        "summary":"Work as the Lab Instructor and Marker.",
+        "range":"Sep 2021 - Present"
+    },
+    {
+        "role":"Software Developer",
+        "company":"UVic Bioinformatics Lab",
+        "summary":"\n- Work on developing a virus editor tool which visualizes the virus database and helps scientists to manage it in ideal way.\n- Use JavaFX and maven to modify the GUI part and use MySQL to access the database.\n- Running the server with Bitnami WordPress on AWS.",
+        "range":"Sept 2020 - April 2021"
+    },
+    {
+        "role":"Software Developer",
+        "company":"EncoreFX (Global Reach Canada)",
+        "summary":"\n- Work on an automatic payment file translation application which helps operators to get and monitor different kind of swift messages easily.\n- Use Angular to create a Web UI and develop RESTful API in .Net Core (C#) and Java.\n- Write Unit testing in TypeScipt and C# to maximize efficiency and test coverage for the application.",
+        "range":"Jan - Apr 2019"
+    }
+]
+
