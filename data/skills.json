@@ -1,13 +1,14 @@
 [
   {
-      "grouping":"Architecture",
-      "skills":[ "Computer Networking","RESTful APIs"]
-  },{
       "grouping":"Languages, Operating Systems & Tools",
       "skills":[ "C++","Java","Python","git","linux","javascript"]
   },
   {
       "grouping":"Platform Development & Administration",
       "skills":[ "NS-3","Bitbucket","MySQL","Wordpress","Matlab"]
+  },
+  {
+    "grouping":"Architecture",
+    "skills":[ "Computer Networking","RESTful APIs"]
   }
 ]
