@@ -1,5 +1,5 @@
 title = "Shirley Shu"
-baseURL = "https://ssjShirley.github.io/"
+baseURL = "https://ssjshirley.github.io/"
 theme = "hugo-resume"
 languageCode = "en-us"
 PygmentsCodeFences = false
