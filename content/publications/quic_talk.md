@@ -6,7 +6,7 @@ featured: true
 # description: "QUIC, a reliable transport layer protocol, was designed to solve current problems on TCP and replace it. This talk will introduce it in following topics. What is QUIC? Why does QUIC become popular? What is the benefits of QUIC? And some related works around QUIC."
 tags: ["QUIC","TCP","Transport Protocol"]
 # image: "/img/organicdevops.webp"
-# link: "http://www.alldaydevops.com/blog/organically-devops-building-quality-and-security-into-the-software-supply-chain-at-liberty-mutual"
+link: "https://github.com/ssjShirley/personal-web/blob/gh-pages/pdf/QUIC_talk.pdf"
 # fact: "Interesting little tidbit shown below image on summary and detail page"
 weight: 400
 sitemap:

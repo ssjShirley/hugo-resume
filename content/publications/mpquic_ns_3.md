@@ -5,7 +5,7 @@ pubtype: "Conference Paper"
 featured: true
 description: "S. Shu, W. Yang, J. Pan and L. Cai, \"A Multipath Extension to the QUIC Module for ns-3,\" 2023 Workshop on ns-3 (WNS3), Arlington, VA, USA, 2023, pp. 608-615, doi: 3592149.3592803"
 tags: ["MPQUIC","Network Simulation","ns-3","Transport Protocols"]
-# link: "/img/wns32023_16"
+link: "https://github.com/ssjShirley/personal-web/blob/gh-pages/pdf/wns32023_16.pdf"
 # image: "/img/organicdevops.webp"
 # fact: "Interesting little tidbit shown below image on summary and detail page"
 weight: 400

@@ -5,7 +5,7 @@ pubtype: "Talk"
 featured: true
 tags: ["MPQUIC","Network Simulation","ns-3","Transport Protocols"]
 # image: "/img/organicdevops.webp"
-# link: "http://www.alldaydevops.com/blog/organically-devops-building-quality-and-security-into-the-software-supply-chain-at-liberty-mutual"
+link: "https://github.com/ssjShirley/personal-web/blob/gh-pages/pdf/wns3_2022.pdf"
 # fact: "Interesting little tidbit shown below image on summary and detail page"
 weight: 400
 sitemap:
