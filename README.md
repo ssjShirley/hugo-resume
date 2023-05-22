@@ -16,3 +16,15 @@ To public changes.
 ```bash
 hugo -d ssjshirley.github.io
 ```
+
+To update the submodule.
+```bash
+cd ssjshirley.github.io
+git add .
+git commit -m "web update"
+git push
+cd ..
+git submodule update --init --recursive --remote 
+```
+
+The updated web can be access by [ssjshirley.github.io](https://ssjshirley.github.io/)
