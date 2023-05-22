@@ -24,7 +24,7 @@ git add .
 git commit -m "web update"
 git push
 cd ..
-git submodule update --init --recursive --remote 
+## then commot the submodule change with git add, commit, push
 ```
 
 The updated web can be access by [ssjshirley.github.io](https://ssjshirley.github.io/)
