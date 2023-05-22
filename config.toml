@@ -8,20 +8,20 @@ PygmentsStyle = "monokai"
 enableGitInfo = false
 
 [params]
-address = "Victoria, BC, Canada"
+address = "Burnaby, BC, Canada"
 email = "ssjtoshirley@gmail.com"
 favicon = "/favicon.ico"
 firstName = "Shirley"
 lastName = "Shu"
-phone = ""
+phone = "+1(236)-882-2343"
 profileImage = "img/photo.jpg"
 showEducation = true
 showExperience = true
-showOpenSource = false
-showProjects = true
+showOpenSource = true
+showProjects = false
 showPublications = true
-showQr = false
-showSkills = true
+showQr = true
+showSkills = false
 
 [params.google]
 

@@ -1,21 +1,27 @@
 [
     {
-        "role":"Teaching Assistant",
-        "company":"University of Victoria",
-        "summary":"\n- Work as the Lab Instructor and Marker for course CSC360 (Operating Systems) and CSC355 (Digital Logic and Computer Organization).",
-        "range":"Sep 2021 - Present"
+        "role":"Software Developer (co-op)",
+        "company":"Microchip",
+        "summary":"Developed and maintained automated benchmark tools using C and makefile, streamlining testing processes. Conducted benchmarks to analyze system performance and identify bottlenecks in QEMU and Protium, optimizing software performance based on the results. Conducted system-level testing, collaborated with cross-functional teams, and provided ongoing maintenance and support, ensuring proper functionality and system reliability.",
+        "range":"Jan 2023 - Apr 2023"
     },
     {
-        "role":"Software Developer",
+        "role":"Teaching Assistant",
+        "company":"University of Victoria",
+        "summary":"Work as the Lab Instructor and Marker for course CSC360 (Operating Systems), CSC355 (Digital Logic and Computer Organization), and CSC445/545 (Linear Programming). Provided classroom support by organizing the classroom, distributing materials, and facilitating discussions with the lead instructor. Assisted in grading assignments, quizzes, and exams, maintaining accurate records of student grades, and providing valuable feedback. Additionally, Enhanced the efficiency of grading programming assignments by developing Shell scripts, resulting in a 50% increase in marking efficiency. Conducted individual and group tutoring sessions, prepared course materials, facilitated laboratory sessions, acted as a communication link between the instructor and students, maintained attendance records, tracked student progress, and mentored students on study techniques and academic success strategies.",
+        "range":"Sep 2021 - Dec 2022"
+    },
+    {
+        "role":"Software Developer (co-op)",
         "company":"UVic Bioinformatics Lab",
         "summary":"\n- Work on developing a virus editor tool which visualizes the virus database and helps scientists to manage it in ideal way.\n- Use JavaFX and maven to modify the GUI part and use MySQL to access the database.\n- Running the server with Bitnami WordPress on AWS.",
         "range":"Sept 2020 - April 2021"
     },
     {
-        "role":"Software Developer",
+        "role":"Software Developer (co-op)",
         "company":"EncoreFX (Global Reach Canada)",
         "summary":"\n- Work on an automatic payment file translation application which helps operators to get and monitor different kind of swift messages easily.\n- Use Angular to create a Web UI and develop RESTful API in .Net Core (C#) and Java.\n- Write Unit testing in TypeScipt and C# to maximize efficiency and test coverage for the application.",
-        "range":"Jan - Apr 2019"
+        "range":"Jan 2019 - Apr 2019"
     }
 ]
 
