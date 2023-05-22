@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>network simulation on Shirley Shu</title>
+    <link>https://ssjshirley.github.io/tags/network-simulation/</link>
+    <description>Recent content in network simulation on Shirley Shu</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="https://ssjshirley.github.io/tags/network-simulation/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Multipath QUIC Protocol Design</title>
+      <link>https://ssjshirley.github.io/projects/creations/mpquic-ns3/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ssjshirley.github.io/projects/creations/mpquic-ns3/</guid>
+      <description>Design a multipath QUIC protocol on ns-3 based on the theorem of MPTCP and QUIC. Realized majority functions of QUIC protocol over a socket based network system, written in C++. Research on the performance with various combination of transmission types.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Creations on Shirley Shu</title>
+    <link>https://ssjshirley.github.io/projects/creations/</link>
+    <description>Recent content in Creations on Shirley Shu</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 07 Jan 2020 15:00:28 +0000</lastBuildDate>
+    
+	<atom:link href="https://ssjshirley.github.io/projects/creations/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Blockchain based Criminal Records Database</title>
+      <link>https://ssjshirley.github.io/projects/creations/blockchain/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ssjshirley.github.io/projects/creations/blockchain/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multipath QUIC Protocol Design</title>
+      <link>https://ssjshirley.github.io/projects/creations/mpquic-ns3/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ssjshirley.github.io/projects/creations/mpquic-ns3/</guid>
+      <description>Design a multipath QUIC protocol on ns-3 based on the theorem of MPTCP and QUIC. Realized majority functions of QUIC protocol over a socket based network system, written in C++. Research on the performance with various combination of transmission types.</description>
+    </item>
+    
+    <item>
+      <title>Predict Hotel Type in Expedia</title>
+      <link>https://ssjshirley.github.io/projects/creations/predicthotel/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ssjshirley.github.io/projects/creations/predicthotel/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

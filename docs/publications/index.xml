@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Publications on Shirley Shu</title>
+    <link>https://ssjshirley.github.io/publications/</link>
+    <description>Recent content in Publications on Shirley Shu</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 07 Jan 2020 16:47:30 +0000</lastBuildDate>
+    
+	<atom:link href="https://ssjshirley.github.io/publications/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>MM-QUIC: A mobility-aware multipath QUIC for satellite networks</title>
+      <link>https://ssjshirley.github.io/publications/mmquic/</link>
+      <pubDate>Wed, 08 Dec 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://ssjshirley.github.io/publications/mmquic/</guid>
+      <description>Abstract: The Integrated Terrestrial and LEO satellite network (ITSN) is promising for providing ubiquitous communication services. In ITSN, network mobility brings new challenges and attracts attention. In this paper, we promote a new transport layer protocol, Multipath QUIC (MPQUIC) to deal with the network mobility issue in ITSN. ITSN is characterized by high bandwidth delay product (BDP). The standard congestion control algorithm of MPQUIC, Opportunistic Linked Increases Algorithm (OLIA), encounters great challenges such as congestion window (cwnd) overshooting whenever handoff, which motivates our proposal, a Mobility-aware Multipath QUIC (MM-QUIC) congestion control algorithm.</description>
+    </item>
+    
+    <item>
+      <title>Introduction of Quick UDP Internet Connection (QUIC) Protocol</title>
+      <link>https://ssjshirley.github.io/publications/quictalk/</link>
+      <pubDate>Fri, 08 Oct 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://ssjshirley.github.io/publications/quictalk/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
