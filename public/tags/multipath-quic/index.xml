@@ -5,11 +5,7 @@
     <link>https://ssjshirley.github.io/tags/multipath-quic/</link>
     <description>Recent content in Multipath QUIC on Shirley Shu</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    
-	<atom:link href="https://ssjshirley.github.io/tags/multipath-quic/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <language>en-us</language><atom:link href="https://ssjshirley.github.io/tags/multipath-quic/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Multipath QUIC Protocol Design</title>
       <link>https://ssjshirley.github.io/projects/creations/mpquic-ns3/</link>

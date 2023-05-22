@@ -6,18 +6,34 @@
     <description>Recent content in Home on Shirley Shu</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 10 Feb 2018 18:56:13 -0500</lastBuildDate>
-    
-	<atom:link href="https://ssjshirley.github.io/index.xml" rel="self" type="application/rss+xml" />
-    
+    <lastBuildDate>Sat, 10 Feb 2018 18:56:13 -0500</lastBuildDate><atom:link href="https://ssjshirley.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>A Multipath Extension to the QUIC Module for ns-3</title>
+      <link>https://ssjshirley.github.io/publications/mpquic_ns_3/</link>
+      <pubDate>Mon, 22 May 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://ssjshirley.github.io/publications/mpquic_ns_3/</guid>
+      <description>S. Shu, W. Yang, J. Pan and L. Cai, &amp;quot;A Multipath Extension to the QUIC Module for ns-3,&amp;quot; 2023 Workshop on ns-3 (WNS3), Arlington, VA, USA, 2023, pp. 608-615, doi: 3592149.3592803
+Abstract: Network transmission with multiple interfaces is desirable for the next-generation Internet to improve end-to-end performance and reliability. Multipath QUIC is thus proposed to utilize multiple interfaces for Internet transmission with QUIC, while QUIC is already standardized and active in use by several mainstream web browsers.</description>
+    </item>
     
     <item>
-      <title>Atlassian Deployment Triggers</title>
-      <link>https://ssjshirley.github.io/projects/contributions/deploy-triggers/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <title>Scheduler Design for Mobility-aware Multipath QUIC</title>
+      <link>https://ssjshirley.github.io/publications/scheduler_design_for_mobility_aware_multipath_quic/</link>
+      <pubDate>Sun, 04 Dec 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://ssjshirley.github.io/projects/contributions/deploy-triggers/</guid>
-      <description>Addressed pretty significant page load performance issue founde in larger deployments. Eliminates uses of intensive backend query, replacing it with an asynchronous API call against a lucene index. This change reduces page load from from 2+ minutes to nearly instant, with an incredibly responsive UI.</description>
+      <guid>https://ssjshirley.github.io/publications/scheduler_design_for_mobility_aware_multipath_quic/</guid>
+      <description>W. Yang, L. Cai, S. Shu and J. Pan, &amp;quot;Scheduler Design for Mobility-aware Multipath QUIC,&amp;quot; 2022 IEEE Global Communications Conference (GLOBECOM), Rio de Janeiro, Brazil, 2022, pp. 2849-2854, doi: 10.1109/GLOBECOM48099.2022.10001247.
+Abstract: The Integrated Terrestrial and LEO satellite network (ITSN) is promising for providing ubiquitous communication services. In ITSN, network mobility brings new challenges and attracts attention. In this paper, we promote a new transport layer protocol, Multipath QUIC (MPQUIC) to deal with the network mobility issue in ITSN.</description>
+    </item>
+    
+    <item>
+      <title> A Multipath Extension to the QUIC Module in ns-3</title>
+      <link>https://ssjshirley.github.io/publications/mpquic_talk/</link>
+      <pubDate>Wed, 15 Jun 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://ssjshirley.github.io/publications/mpquic_talk/</guid>
+      <description>Network transmission with multiple interfaces is desirable for the next-generation Internet to improve end-to-end performance and reliability. Multipath QUIC (MPQUIC) is proposed to utilize multiple access links and paths for non-interrupted Internet transmission building upon QUIC, a newly standardized transport layer protocol. The lightning talk will describe the current effort to develop a multipath extension to the QUIC module in ns-3. This extension has the scalability of multiple paths, the flexibility of the path schedulers, and the extensibility of the congestion control algorithms, providing a stable simulation platform for the research community on multipath transport layer protocols.</description>
     </item>
     
     <item>
@@ -26,34 +42,27 @@
       <pubDate>Wed, 08 Dec 2021 00:00:00 +0000</pubDate>
       
       <guid>https://ssjshirley.github.io/publications/mmquic/</guid>
-      <description>Abstract: The Integrated Terrestrial and LEO satellite network (ITSN) is promising for providing ubiquitous communication services. In ITSN, network mobility brings new challenges and attracts attention. In this paper, we promote a new transport layer protocol, Multipath QUIC (MPQUIC) to deal with the network mobility issue in ITSN. ITSN is characterized by high bandwidth delay product (BDP). The standard congestion control algorithm of MPQUIC, Opportunistic Linked Increases Algorithm (OLIA), encounters great challenges such as congestion window (cwnd) overshooting whenever handoff, which motivates our proposal, a Mobility-aware Multipath QUIC (MM-QUIC) congestion control algorithm.</description>
+      <description>W. Yang, S. Shu, L. Cai and J. Pan, &amp;quot;MM-QUIC: Mobility-aware Multipath QUIC for Satellite Networks,&amp;quot; 2021 17th International Conference on Mobility, Sensing and Networking (MSN), Exeter, United Kingdom, 2021, pp. 608-615, doi: 10.1109/MSN53354.2021.00093.
+Abstract: The Integrated Terrestrial and LEO satellite network (ITSN) is promising for providing ubiquitous communication services. In ITSN, network mobility brings new challenges and attracts attention. In this paper, we promote a new transport layer protocol, Multipath QUIC (MPQUIC) to deal with the network mobility issue in ITSN.</description>
     </item>
     
     <item>
       <title>Introduction of Quick UDP Internet Connection (QUIC) Protocol</title>
-      <link>https://ssjshirley.github.io/publications/quictalk/</link>
+      <link>https://ssjshirley.github.io/publications/quic_talk/</link>
       <pubDate>Fri, 08 Oct 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://ssjshirley.github.io/publications/quictalk/</guid>
+      <guid>https://ssjshirley.github.io/publications/quic_talk/</guid>
+      <description>QUIC, which stands for Quick UDP Internet Connections, is a transport layer protocol developed by Google. It was designed to improve the performance of web communication and address some of the limitations of the traditional Transmission Control Protocol (TCP). QUIC operates over the User Datagram Protocol (UDP) instead of TCP, which allows for faster and more efficient data transmission.
+QUIC was initially developed to enhance the performance of web applications, particularly for mobile devices and real-time communication.</description>
+    </item>
+    
+    <item>
+      <title>MPQUIC NS3</title>
+      <link>https://ssjshirley.github.io/projects/contributions/mpquic-ns3-git/</link>
+      <pubDate>Sun, 30 Apr 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://ssjshirley.github.io/projects/contributions/mpquic-ns3-git/</guid>
       <description></description>
-    </item>
-    
-    <item>
-      <title>Added Docker Build Status Badge to shields.io</title>
-      <link>https://ssjshirley.github.io/projects/contributions/shields-docker/</link>
-      <pubDate>Tue, 07 Jan 2020 17:09:26 +0000</pubDate>
-      
-      <guid>https://ssjshirley.github.io/projects/contributions/shields-docker/</guid>
-      <description>Shields.io is a massive library of badges that can be inserted into project README&amp;rsquo;s or websites displaying various statuses (code coverage, health, version, etc). Support for docker was missing the current build health, and was a pretty trivial addition.</description>
-    </item>
-    
-    <item>
-      <title>Schema.org Structured Data documentation fixes</title>
-      <link>https://ssjshirley.github.io/projects/contributions/schema-org/</link>
-      <pubDate>Tue, 07 Jan 2020 17:08:21 +0000</pubDate>
-      
-      <guid>https://ssjshirley.github.io/projects/contributions/schema-org/</guid>
-      <description>While adding Structured Data to a client&amp;rsquo;s website I found some example JSON that was invalid. Simple contribution to cleanup the user documentation providing syntactically valid JSON documents.</description>
     </item>
     
     <item>
@@ -63,7 +72,7 @@
       
       <guid>https://ssjshirley.github.io/blog/force-ssl/</guid>
       <description>Intro Doesn&amp;rsquo;t matter whether it&amp;rsquo;s a CakePHP app for a client, your own personal CMS, or any other web based application. If your passing around passwords or other sensitive info you should really implement SSL. SSL provides 2 main perks to your visitors.
- First it encrypts all communication that flies across the web. This prevents curious or devious billies from getting your secrets. Secondly it ensures to the user that your server is in fact who it claims, and not a nasty &amp;lsquo;man in the middle&amp;rdquo; attack.</description>
+ First it encrypts all communication that flies across the web. This prevents curious or devious billies from getting your secrets. Secondly it ensures to the user that your server is in fact who it claims, and not a nasty &amp;lsquo;man in the middle&amp;quot; attack.</description>
     </item>
     
     <item>

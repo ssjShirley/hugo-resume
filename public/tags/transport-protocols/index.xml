@@ -6,9 +6,25 @@
     <description>Recent content in transport protocols on Shirley Shu</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <lastBuildDate>Mon, 22 May 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://ssjshirley.github.io/tags/transport-protocols/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>A Multipath Extension to the QUIC Module for ns-3</title>
+      <link>https://ssjshirley.github.io/publications/mpquic_ns_3/</link>
+      <pubDate>Mon, 22 May 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://ssjshirley.github.io/publications/mpquic_ns_3/</guid>
+      <description>S. Shu, W. Yang, J. Pan and L. Cai, &amp;quot;A Multipath Extension to the QUIC Module for ns-3,&amp;quot; 2023 Workshop on ns-3 (WNS3), Arlington, VA, USA, 2023, pp. 608-615, doi: 3592149.3592803
+Abstract: Network transmission with multiple interfaces is desirable for the next-generation Internet to improve end-to-end performance and reliability. Multipath QUIC is thus proposed to utilize multiple interfaces for Internet transmission with QUIC, while QUIC is already standardized and active in use by several mainstream web browsers.</description>
+    </item>
     
-	<atom:link href="https://ssjshirley.github.io/tags/transport-protocols/index.xml" rel="self" type="application/rss+xml" />
-    
+    <item>
+      <title> A Multipath Extension to the QUIC Module in ns-3</title>
+      <link>https://ssjshirley.github.io/publications/mpquic_talk/</link>
+      <pubDate>Wed, 15 Jun 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://ssjshirley.github.io/publications/mpquic_talk/</guid>
+      <description>Network transmission with multiple interfaces is desirable for the next-generation Internet to improve end-to-end performance and reliability. Multipath QUIC (MPQUIC) is proposed to utilize multiple access links and paths for non-interrupted Internet transmission building upon QUIC, a newly standardized transport layer protocol. The lightning talk will describe the current effort to develop a multipath extension to the QUIC module in ns-3. This extension has the scalability of multiple paths, the flexibility of the path schedulers, and the extensibility of the congestion control algorithms, providing a stable simulation platform for the research community on multipath transport layer protocols.</description>
+    </item>
     
     <item>
       <title>Multipath QUIC Protocol Design</title>

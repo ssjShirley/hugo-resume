@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>QUIC on Shirley Shu</title>
+    <link>https://ssjshirley.github.io/tags/quic/</link>
+    <description>Recent content in QUIC on Shirley Shu</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 08 Oct 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://ssjshirley.github.io/tags/quic/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Introduction of Quick UDP Internet Connection (QUIC) Protocol</title>
+      <link>https://ssjshirley.github.io/publications/quic_talk/</link>
+      <pubDate>Fri, 08 Oct 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://ssjshirley.github.io/publications/quic_talk/</guid>
+      <description>QUIC, which stands for Quick UDP Internet Connections, is a transport layer protocol developed by Google. It was designed to improve the performance of web communication and address some of the limitations of the traditional Transmission Control Protocol (TCP). QUIC operates over the User Datagram Protocol (UDP) instead of TCP, which allows for faster and more efficient data transmission.
+QUIC was initially developed to enhance the performance of web applications, particularly for mobile devices and real-time communication.</description>
+    </item>
+    
+  </channel>
+</rss>

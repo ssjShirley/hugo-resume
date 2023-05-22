@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Goodput on Shirley Shu</title>
+    <link>https://ssjshirley.github.io/tags/goodput/</link>
+    <description>Recent content in Goodput on Shirley Shu</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 04 Dec 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://ssjshirley.github.io/tags/goodput/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Scheduler Design for Mobility-aware Multipath QUIC</title>
+      <link>https://ssjshirley.github.io/publications/scheduler_design_for_mobility_aware_multipath_quic/</link>
+      <pubDate>Sun, 04 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://ssjshirley.github.io/publications/scheduler_design_for_mobility_aware_multipath_quic/</guid>
+      <description>W. Yang, L. Cai, S. Shu and J. Pan, &amp;quot;Scheduler Design for Mobility-aware Multipath QUIC,&amp;quot; 2022 IEEE Global Communications Conference (GLOBECOM), Rio de Janeiro, Brazil, 2022, pp. 2849-2854, doi: 10.1109/GLOBECOM48099.2022.10001247.
+Abstract: The Integrated Terrestrial and LEO satellite network (ITSN) is promising for providing ubiquitous communication services. In ITSN, network mobility brings new challenges and attracts attention. In this paper, we promote a new transport layer protocol, Multipath QUIC (MPQUIC) to deal with the network mobility issue in ITSN.</description>
+    </item>
+    
+  </channel>
+</rss>

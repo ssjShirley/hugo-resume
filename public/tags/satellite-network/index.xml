@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Satellite Network on Shirley Shu</title>
+    <link>https://ssjshirley.github.io/tags/satellite-network/</link>
+    <description>Recent content in Satellite Network on Shirley Shu</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 08 Dec 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://ssjshirley.github.io/tags/satellite-network/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>MM-QUIC: A mobility-aware multipath QUIC for satellite networks</title>
+      <link>https://ssjshirley.github.io/publications/mmquic/</link>
+      <pubDate>Wed, 08 Dec 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://ssjshirley.github.io/publications/mmquic/</guid>
+      <description>W. Yang, S. Shu, L. Cai and J. Pan, &amp;quot;MM-QUIC: Mobility-aware Multipath QUIC for Satellite Networks,&amp;quot; 2021 17th International Conference on Mobility, Sensing and Networking (MSN), Exeter, United Kingdom, 2021, pp. 608-615, doi: 10.1109/MSN53354.2021.00093.
+Abstract: The Integrated Terrestrial and LEO satellite network (ITSN) is promising for providing ubiquitous communication services. In ITSN, network mobility brings new challenges and attracts attention. In this paper, we promote a new transport layer protocol, Multipath QUIC (MPQUIC) to deal with the network mobility issue in ITSN.</description>
+    </item>
+    
+  </channel>
+</rss>
